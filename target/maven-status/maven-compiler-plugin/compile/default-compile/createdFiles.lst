@@ -1,0 +1,4 @@
+com\product\utils\PropertiesReader.class
+com\product\factory\BrowserFactory.class
+com\product\pages\AccountPage.class
+com\product\pages\LoginPage.class
